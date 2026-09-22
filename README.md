@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![We Care](./Resp.-Desafio%202.png)
+![We Care](./img/We-Care-Logo-1.png)
 
 </div>
 
@@ -26,7 +26,7 @@ O principal objetivo do **We Care** é desenvolver uma interface responsiva e vi
 
 <div align="center">
 
-![Preview do We Care](./Resp.-Desafio%202.png)
+![Preview do We Care](./img/We-Care-Logo-2.png)
 
 </div>
 
