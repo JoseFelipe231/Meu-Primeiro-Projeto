@@ -1,10 +1,5 @@
 # 🐾 We Care
 
-<div align="center">
-
-![We Care](./img/We-Care-Logo-1.png)
-
-</div>
 
 ## 📖 Sobre o projeto
 
@@ -22,13 +17,7 @@ O principal objetivo do **We Care** é desenvolver uma interface responsiva e vi
 - 🧩 Organização de componentes
 - 🐶 Experiência do usuário (UX)
 
-## 🖥️ Preview
 
-<div align="center">
-
-![Preview do We Care](./img/We-Care-Logo-2.png)
-
-</div>
 
 O projeto foi desenvolvido pensando em diferentes tamanhos de tela, permitindo uma boa experiência tanto em **computadores quanto em dispositivos móveis**.
 
