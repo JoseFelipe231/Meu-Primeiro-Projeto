@@ -27,13 +27,4 @@ O projeto foi desenvolvido pensando em diferentes tamanhos de tela, permitindo u
 - CSS3
 - JavaScript
 
-## 📂 Estrutura do projeto
 
-```text
-📦 We-Care
- ┣ 📂 assets
- ┃ ┗ 🖼️ imagens
- ┣ 📜 index.html
- ┣ 📜 style.css
- ┣ 📜 script.js
- ┗ 📜 README.md
